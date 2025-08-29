@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Bukunmi Enoch Akinyemi 👋  
+**Full-Stack Software Engineer | AI & Cloud Enthusiast | Nigeria**  
 
-<!--
-**Bukunmi2108/Bukunmi2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukunmi-akinyemi) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF408C?style=flat&logo=google-chrome&logoColor=white)](https://bukunmiresume.vercel.app) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bkakinyemi21@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I'm a **Full-Stack Software Engineer** with hands-on experience building **scalable web applications, APIs, and cloud-native solutions**. I specialize in **TypeScript, Next.js, React, Python (FastAPI), PostgreSQL, Docker, AWS, and Azure**, and enjoy designing robust systems that solve real-world problems.  
+
+I also hold a **Juris Doctor (First Class Honors)**, which strengthens my analytical skills and provides unique insight when working in **regulated domains**.  
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** TypeScript, JavaScript, Python, SQL, HTML5/CSS  
+- **Frameworks & Libraries:** Next.js, React, Node.js, Express.js, FastAPI, Tailwind CSS  
+- **Databases & Backend:** PostgreSQL, MySQL, MongoDB, SQLAlchemy, WebSockets, Redis  
+- **DevOps & Tools:** Git, GitHub, Docker, AWS, Azure, GitHub Actions, Linux, VS Code, Jupyter Notebook, Figma  
+- **Testing & Security:** Jest, Pytest, Cypress, OAuth 2.0, JWT Authentication  
+- **Concepts:** REST APIs, Microservices, Cloud Deployment, CI/CD, Agile/Scrum, AI/NLP Integration  
+
+---
+
+## 💼 Professional Experience Highlights
+- **Lead Software Engineer**, CaseSimpli (Remote) – Built FastAPI + Next.js platforms, AI-powered chatbots, and document automation tools.  
+- **Frontend Web Engineer**, Data Quotient Hub – Developed responsive enterprise UIs with Next.js + TypeScript.  
+- **Freelance Full-Stack Developer** – Delivered hospital management and exam/quiz web apps, deployed on AWS & Azure.  
+- **ICT Manager**, Glory Schools – Built e-learning platforms and exam portals, managed IT infrastructure, taught ICT.  
+
+---
+
+## 🚀 Selected Projects
+- **Legal Document Automation Platform** – FastAPI + Next.js system enabling real-time document workflows with WebSockets and PostgreSQL.  
+- **Exam & Quiz App** – Full-stack exam prep web app for WAEC, NECO, and JAMB with offline persistence and admin sync.  
+- **RAG-based Legal AI Assistant** – FastAPI system integrating OpenAI Assistants API, vector stores, and multi-source ingestion.  
+- **Voice Assistant for Desktop Apps** – Python + Whisper-powered system for voice-controlled OS commands.  
+- **Custom Mail Server (In Progress)** – Building a secure VPS-based mail server with Postfix, Dovecot, TLS/SSL, and DKIM/SPF/DMARC.  
+
+---
+
+## 📚 Certifications & Training
+- Hugging Face – *LLM Course: Building & Fine-Tuning Large Language Models* (**In Progress**)  
+- WorldQuant University – *Applied Data Science Lab* (**In Progress**)  
+- CS50’s Introduction to Computer Science & Python Programming – Harvard University  
+
+---
+
+## 📫 Contact Me
+- Email: bkakinyemi21@gmail.com  
+- LinkedIn: [linkedin.com/in/bukunmi-akinyemi](https://www.linkedin.com/in/bukunmi-akinyemi)  
+- Portfolio: [bukunmiresume.vercel.app](https://bukunmiresume.vercel.app)  
+
+---
+
+> “Code is the bridge between ideas and impact.”  
+
