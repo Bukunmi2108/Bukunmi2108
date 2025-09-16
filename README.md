@@ -1,7 +1,7 @@
 # Hi there, I'm Bukunmi Enoch Akinyemi 👋  
 **Full-Stack Software Engineer | AI & Cloud Enthusiast | Nigeria**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukunmi-akinyemi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukunmiakinyemi) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF408C?style=flat&logo=google-chrome&logoColor=white)](https://bukunmiresume.vercel.app) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bkakinyemi21@gmail.com)
 
