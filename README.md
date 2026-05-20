@@ -4,7 +4,7 @@
 
 Currently at [Qanooni](https://qanooni.ai), where I work on multilingual (English/Arabic) legal-review AI: pipeline evaluations, prompt optimization, and agent tooling.
 
-- **JD** (First Class Honours, top 1% of cohort) · ESCAE Benin University
+- **LLB** (First Class Honours, top 1% of cohort) · ESCAE Benin University
 - **MSc Financial Engineering** (in progress) · WorldQuant University
 
 ## What I build
