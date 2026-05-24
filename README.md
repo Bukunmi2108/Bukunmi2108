@@ -32,4 +32,4 @@ Currently at [Qanooni](https://qanooni.ai), where I work on multilingual (Englis
 
 - Email: bkakinyemi21@gmail.com
 - LinkedIn: [/in/bukunmiakinyemi](https://www.linkedin.com/in/bukunmiakinyemi)
-- Portfolio: [bukunmiresume.vercel.app](https://bukunmiresume.vercel.app)
+- Portfolio: [bukunmi-portfolio.vercel.app](https://bukunmi-portfolio.vercel.app)
